@@ -1,2 +1,2 @@
 # Quiz-Website-Using-PHP
-Hello
+Hi Everyone This is Quiz app where you can add your question and create your quiz this is basic quiz app using php for backend and for  frontend i used bootstrap . currently i am learning php so in future with laravel  i update this project to the next level where admin can add question quiz category wise and user can answer them , leaderboard , user history may more stuff will be added by me soon . 
