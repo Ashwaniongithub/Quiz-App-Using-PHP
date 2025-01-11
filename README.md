@@ -3,6 +3,8 @@ Hi Everyone This is Quiz app where you can add your question and create your qui
 
 
 Steps For Clone Project:-
+You Can Import Given Sql File Otherwise You Can Follow Below Steps .
+
 1. Create Db Named "quiz_db" In Xampp
 2. Create "questions" Table in this .
 3. Add Field In It = "id" , "question_text" , "option_1" , "option_2" , "option_3" , "option_4" , "correct_option"
